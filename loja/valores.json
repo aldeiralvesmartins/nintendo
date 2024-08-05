@@ -1,0 +1,179 @@
+{
+  "0-250": [
+    {
+      "nome": "Console Nintendo Switch Azul e Vermelho + Joy-Con Neon",
+      "produto": "117972-nintendo-switch-neon-blue-neon-red-package-front-1200x675.avif",
+      "link": "panela",
+      "preco_original": 639.90,
+      "preco_atual": 78.00
+    },
+    {
+      "nome": "Pacote Nintendo Switch com Mario Kart 8 Deluxe e 3 meses de assinatura do Nintendo Switch Online",
+      "produto": "112822-brazil-switch-hw-package-1200x675.avif",
+      "link": "microondas",
+      "preco_original": 999.00,
+      "preco_atual": 83.90
+    },
+    {
+      "nome": "Controles Joy-Con con Rosa Pastel e Amarelo pastel",
+      "produto": "117077-nintendo-switch-joy-con-set-pastel-pink-l-pastel-yellow-r-1200x675.avif",
+      "link": "celular",
+      "preco_original": 2199.00,
+      "preco_atual": 130.20
+    },
+    {
+      "nome": "Nintendo Switch Lite - Turquesa",
+      "produto": "110663-nintendo-switch-lite-turquoise-package-1200x675.avif",
+      "link": "air",
+      "preco_original": 1159.00,
+      "preco_atual": 102.40
+    },
+    {
+      "nome": "Nintendo Switch com Joy-Con azul neon e vermelho neon",
+      "produto": "115464-switch-oled-red-blue-box-art-1200x675.avif",
+      "link": "notebook",
+      "preco_original": 1799.00,
+      "preco_atual": 210.70
+    },
+    {
+      "nome": "Controle Pro Nintendo Switch",
+      "produto": "104888-nintendo-switch-pro-controller-black-package-1200x675.avif",
+      "link": "tv",
+      "preco_original": 2499.99,
+      "preco_atual": 320.90
+    }
+  ],
+  "250-500": [
+    {
+      "nome": "Jogo Completo 5 Panelas BRINOX",
+      "produto": "panela.png",
+      "link": "panela",
+      "preco_original": 639.90,
+      "preco_atual": 65.00
+    },
+    {
+      "nome": "Microondas 30L 220V LG",
+      "produto": "microondas.png",
+      "link": "microondas",
+      "preco_original": 999.00,
+      "preco_atual": 72.81
+    },
+    {
+      "nome": "Samsung Galaxy S22 128Gb",
+      "produto": "celular.webp",
+      "link": "celular",
+      "preco_original": 2199.00,
+      "preco_atual": 102.90
+    },
+    {
+      "nome": "Air Fryer Britânia Oven 4em1",
+      "produto": "air.png",
+      "link": "air",
+      "preco_original": 1159.00,
+      "preco_atual": 80.40
+    },
+    {
+      "nome": "Notebook Go Samsung 1TB HD",
+      "produto": "notebook.png",
+      "link": "notebook",
+      "preco_original": 1799.00,
+      "preco_atual": 170.84
+    },
+    {
+      "nome": "Smart TV 50 polegadas 4K",
+      "produto": "tv.png",
+      "link": "tv",
+      "preco_original": 2499.99,
+      "preco_atual": 250.45
+    }
+  ],
+  "500-750": [
+    {
+      "nome": "Jogo Completo 5 Panelas BRINOX",
+      "produto": "panela.png",
+      "link": "panela",
+      "preco_original": 639.90,
+      "preco_atual": 52.84
+    },
+    {
+      "nome": "Microondas 30L 220V LG",
+      "produto": "microondas.png",
+      "link": "microondas",
+      "preco_original": 999.00,
+      "preco_atual": 61.90
+    },
+    {
+      "nome": "Samsung Galaxy S22 128Gb",
+      "produto": "celular.webp",
+      "link": "celular",
+      "preco_original": 2199.00,
+      "preco_atual": 80.90
+    },
+    {
+      "nome": "Air Fryer Britânia Oven 4em1",
+      "produto": "air.png",
+      "link": "air",
+      "preco_original": 1159.00,
+      "preco_atual": 65.80
+    },
+    {
+      "nome": "Notebook Go Samsung 1TB HD",
+      "produto": "notebook.png",
+      "link": "notebook",
+      "preco_original": 1799.00,
+      "preco_atual": 120.60
+    },
+    {
+      "nome": "Smart TV 50 polegadas 4K",
+      "produto": "tv.png",
+      "link": "tv",
+      "preco_original": 2499.99,
+      "preco_atual": 160.95
+    }
+  ],
+  "750-1000": [
+    {
+      "nome": "Jogo Completo 5 Panelas BRINOX",
+      "produto": "panela.png",
+      "link": "panela",
+      "preco_original": 639.90,
+      "preco_atual": 47.40
+    },
+    {
+      "nome": "Microondas 30L 220V LG",
+      "produto": "microondas.png",
+      "link": "microondas",
+      "preco_original": 999.00,
+      "preco_atual": 50.96
+    },
+    {
+      "nome": "Samsung Galaxy S22 128Gb",
+      "produto": "celular.webp",
+      "link": "celular",
+      "preco_original": 2199.00,
+      "preco_atual": 74.85
+    },
+    {
+      "nome": "Air Fryer Britânia Oven 4em1",
+      "produto": "air.png",
+      "link": "air",
+      "preco_original": 1159.00,
+      "preco_atual": 48.82
+    },
+    {
+      "nome": "Notebook Go Samsung 1TB HD",
+      "produto": "notebook.png",
+      "link": "notebook",
+      "preco_original": 1799.00,
+      "preco_atual": 87.90
+    },
+    {
+      "nome": "Smart TV 50 polegadas 4K",
+      "produto": "tv.png",
+      "link": "tv",
+      "preco_original": 2499.99,
+      "preco_atual": 103.95
+    }
+  ]
+}
+
